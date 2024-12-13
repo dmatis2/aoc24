@@ -15,7 +15,7 @@ Advent of Code 2024 solutions written in Python
 |10|    3.75 ms     |     3.6 ms      |
 |11|     2.4 ms     |      107.29 ms      |
 |12|    45.09 ms     |     72.54 ms     |
-|13|     - ms     |     - ms     |
+|13|     769.91 ms     |     710.77 ms     |
 |14|     - ms     |     - ms     |
 |15|     - ms     |      - ms      |
 |16|    - ms     |      - ms       |
