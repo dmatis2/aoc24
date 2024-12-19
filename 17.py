@@ -75,7 +75,6 @@ def run(a):
             eip += 2
     return to_print
 
-print(','.join(map(str, run(r_a))))
 
 # totally hardcoded, but it works for me! Merry XMAS!
 def bruteforce(expected):
@@ -84,4 +83,5 @@ def bruteforce(expected):
             return a
         
     
+print(','.join(map(str, run(r_a))))
 print(bruteforce(program))
